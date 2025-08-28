@@ -53,9 +53,16 @@
     max-width: 100%; /* Faz a imagem responsiva, não ultrapassa o container */
     height: auto;    /* Mantém a proporção da imagem */
     border-radius: 8px;   
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* sombra leve */
+    box-shadow: 0 4px 8px rgba(245, 245, 245, 0.603); /* sombra leve */
     width: 400px;
     
+  }
+
+  .kant iframe{
+    max-width: 100%; /* Faz a imagem responsiva, não ultrapassa o container */
+    border-radius: 8px;   
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.685); /* sombra leve */
+    height: 300px;
   }
   /* Nav*/
   nav {
